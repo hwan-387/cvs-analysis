@@ -1,5 +1,25 @@
 # 🏪 서울시 편의점 상권 분석
+> 서울시 행정동별 상권·인구·편의점 데이터를 기반으로 신규 편의점 출점 후보지를 탐색하는 데이터 분석 대시보드
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-red?logo=streamlit)](https://cvs-analysis-edriju8jxssbqdqxmcaw6j.streamlit.app/)
+
+---
+
+## 🔗 Project Links
+
+| 구분 | 링크 |
+|---|---|
+| 🌐 **Streamlit Dashboard** | [Live Demo](https://cvs-analysis-edriju8jxssbqdqxmcaw6j.streamlit.app/) |
+| 📑 **Analysis Report** | [PDF 보고서](./docs/cvs-analysis-report.pdf) |
+| 💻 **GitHub Repository** | [GitHub](https://github.com/hwan-387/cvs-analysis) |
+
+---
+
+## 🚀 Live Demo
+
+직접 데이터를 필터링하고 행정동별 편의점 상권 및 출점 후보지를 확인할 수 있습니다.
+
+👉 **[Streamlit Dashboard 바로가기](https://cvs-analysis-edriju8jxssbqdqxmcaw6j.streamlit.app/)**
 > **서울시 행정동별 상권·인구·편의점 데이터를 기반으로 신규 편의점 출점 후보지를 탐색하는 데이터 분석 대시보드**
 
 서울시 행정동 단위의 편의점 분포와 **상주인구·직장인구·유동인구·1인 가구·상권 특성·경쟁 수준**을 종합적으로 분석하여, 신규 편의점 출점 시 우선적으로 검토할 지역을 데이터 기반으로 스크리닝하는 프로젝트입니다.
